@@ -6,6 +6,8 @@ Add voice notifications to your [Claude Code](https://docs.anthropic.com/en/docs
 
 A Master Chief (Halo) theme guide is included to get you started.
 
+![Demo](demo.gif)
+
 ## Features
 
 - **Weighted random selection** — Primary sounds play ~40%, rotation ~50%, bonus/easter eggs ~5-10%
