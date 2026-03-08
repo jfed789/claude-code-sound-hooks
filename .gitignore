@@ -1,0 +1,16 @@
+# Sound files (users bring their own)
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Runtime state
+.state/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*~
